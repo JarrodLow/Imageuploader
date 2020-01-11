@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "511836107282",
+    "firebase_url": "https://alphafire-7fb5e.firebaseio.com",
+    "project_id": "alphafire-7fb5e",
+    "storage_bucket": "alphafire-7fb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511836107282:android:0f74e454aff70fed1f5ecb",
+        "android_client_info": {
+          "package_name": "com.example.alphafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511836107282-pf7reh2pl66jrg74kpg4lhum5iod9aou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphafire",
+            "certificate_hash": "70f5bceb898fe226b55fbcfaab946321713c5683"
+          }
+        },
+        {
+          "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHJkZ411HYO7i0uoW1TvwM0dggfyGN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511836107282:android:0cb8bf97971e2cc41f5ecb",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511836107282-ifbpvsvniqua432bou30ajhvj5qn9gl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fireauth",
+            "certificate_hash": "317d7d02e8de030b3cd16cccd0d57cf73d428c88"
+          }
+        },
+        {
+          "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHJkZ411HYO7i0uoW1TvwM0dggfyGN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511836107282:android:b465188df19be9531f5ecb",
+        "android_client_info": {
+          "package_name": "com.example.imageuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511836107282-fqfeijoj8jdd0378i1fb06ugopls8s2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageuploader",
+            "certificate_hash": "70f5bceb898fe226b55fbcfaab946321713c5683"
+          }
+        },
+        {
+          "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHJkZ411HYO7i0uoW1TvwM0dggfyGN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511836107282:android:740f5a9361e5315b1f5ecb",
+        "android_client_info": {
+          "package_name": "com.howl.howlstagram_f16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511836107282-s8de7nfkabm5kc4l9l48iftlhp12ibf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howl.howlstagram_f16",
+            "certificate_hash": "70f5bceb898fe226b55fbcfaab946321713c5683"
+          }
+        },
+        {
+          "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHJkZ411HYO7i0uoW1TvwM0dggfyGN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511836107282-adrhrjftt9oh5572gmc38pj93rdrfldd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
